@@ -43,6 +43,8 @@ To run the project after all requirements are installed:
 python3 interface.py
 ```
 
+![Introduction](img/Language.png)
+
 ### How to Contribute
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
